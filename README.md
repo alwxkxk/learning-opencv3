@@ -13,3 +13,6 @@
 - chapter6-exercise2 灰阶图
 - chapter6-exercise3 调用摄像头显示并计算显示FPS。
 - chapter8-exercise1 读取视频，输出灰阶视频与描边视频(canny算法)。
+- chapter10-sobel sobel函数
+- chapter10-exercise1 blur函数
+- chapter10-erode-dilate erode和dilate的opencv官方例子
